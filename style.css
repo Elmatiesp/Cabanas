@@ -1,3 +1,8 @@
-h1{
+.Title{
+    text-align: center;
+    font-size: 64px;
+}
+
+.SubTitle{
     text-align: center;
 }
